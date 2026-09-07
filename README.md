@@ -1,2 +1,0 @@
-# Kabbarymedicalcenter-
-Drug information center 
